@@ -1,0 +1,1 @@
+This is the POS system for Geek Café. Built on Meteor.
